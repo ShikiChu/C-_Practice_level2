@@ -1,0 +1,15 @@
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/bin/Debug/net6.0/challengeLab
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/bin/Debug/net6.0/challengeLab.deps.json
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/bin/Debug/net6.0/challengeLab.runtimeconfig.json
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/bin/Debug/net6.0/challengeLab.dll
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/bin/Debug/net6.0/challengeLab.pdb
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/obj/Debug/net6.0/challengeLab.csproj.AssemblyReference.cache
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/obj/Debug/net6.0/challengeLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/obj/Debug/net6.0/challengeLab.AssemblyInfoInputs.cache
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/obj/Debug/net6.0/challengeLab.AssemblyInfo.cs
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/obj/Debug/net6.0/challengeLab.csproj.CoreCompileInputs.cache
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/obj/Debug/net6.0/challengeLab.dll
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/obj/Debug/net6.0/refint/challengeLab.dll
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/obj/Debug/net6.0/challengeLab.pdb
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/obj/Debug/net6.0/challengeLab.genruntimeconfig.cache
+/Users/kennychuryman/Desktop/Labs__SubmitBS/challengeLab/challengeLab/obj/Debug/net6.0/ref/challengeLab.dll
